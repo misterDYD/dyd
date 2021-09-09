@@ -1,0 +1,213 @@
+https://github.com/misterDYD/dyd.git<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>GUIAS Y CONSEJOS</title>
+</head> 
+    <body>
+        <main>
+            <div>
+                <img class="b" src="https://images-na.ssl-images-amazon.com/images/I/61bUaof1xML._AC_SX425_.jpg">
+                <h1 class="a">GUIAS Y CONSEJOS DE SEA OF THIVES</h1>
+                <h4 class="f">1° GRAN RELATO EL</h4>
+                <h4 class="g">SHROUDBREAKER</h4>
+                <h4 class="k">2° GRAN RELATO</h4>
+                <h4 class="j">lA GRANUJA MALDITA</h4>
+                <h4 class="m">3° GRAN RELATO </h4>
+                <h4 class="n">EL CUENTA CUETOS</h4>
+                <h4 class="p">LEGENDARIO</h4>
+            </div>
+            <style>
+          .a {
+              font-family:Georgia, 'Times New Roman', Times, serif;
+              font-style: oblique;
+              text-align: center;
+              margin: auto;
+              z-index: 99;
+              position: absolute;
+              right: 310px;
+              top: 60px;
+            
+          }
+          .b  {
+              display: flex;
+              position: absolute;
+              z-index: 1;
+              width: 80%;
+              margin-left: 160px;
+              height: 20% ;
+          }
+           .c {
+               display: flex;
+               position: absolute;
+               z-index: 0%;
+               width: 1;
+               margin-top: 200px;
+               margin-left: 90px;
+               height: 50%;
+           }
+            .d  {
+                display: flex;
+               position: absolute;
+               z-index: 0%;
+               width: 1;
+               margin-top: 200px;
+               margin-left: 550px;
+               height: 50%;
+
+            }
+            .e {
+                display: flex;
+               position: absolute;
+               z-index: 0%;
+               width: 1;
+               margin-top: 200px;
+               margin-left: 1000px;
+               height: 50%;
+            }
+            .f {
+                font-family:Georgia, 'Times New Roman', Times, serif;
+              font-style: oblique;
+              text-align: center;
+              margin: auto;
+              z-index: 99;
+              position: absolute;
+              right: 1035px;
+              top: 280px;
+            }
+            .g {
+                font-family:Georgia, 'Times New Roman', Times, serif;
+              font-style: oblique;
+              text-align: center;
+              margin: auto;
+              z-index: 99;
+              position: absolute;
+              right: 1040px;
+              top: 320px;
+            }
+            .i {
+                font-family:Georgia, 'Times New Roman', Times, serif;
+              font-style: oblique;
+              text-align: center;
+              margin: auto;
+              z-index: 99;
+              position: absolute;
+              right: 1043px;
+              top: 370px;
+              height: 13%;
+            }
+            .j {
+                font-family:Georgia, 'Times New Roman', Times, serif;
+              font-style: oblique;
+              text-align: center;
+              margin: auto;
+              z-index: 99;
+              position: absolute;
+              right: 563px;
+              top: 320px;
+            }
+            .k {
+                font-family:Georgia, 'Times New Roman', Times, serif;
+              font-style: oblique;
+              text-align: center;
+              margin: auto;
+              z-index: 99;
+              position: absolute;
+              right: 586px;
+              top: 280px;
+            }
+            .l {
+              font-family:Georgia, 'Times New Roman', Times, serif;
+              font-style: oblique;
+              text-align: center;
+              margin: auto;
+              z-index: 99;
+              position: absolute;
+              right: 580px;
+              top: 370px;
+              height: 13%;
+            }
+            .m {
+              font-family:Georgia, 'Times New Roman', Times, serif;
+              font-style: oblique;
+              text-align: center;
+              margin: auto;
+              z-index: 99;
+              position: absolute;
+              right: 140px;
+              top: 280px;     
+            }
+            .n {
+              font-family:Georgia, 'Times New Roman', Times, serif;
+              font-style: oblique;
+              text-align: center;
+              margin: auto;
+              z-index: 99;
+              position: absolute;
+              right: 125px;
+              top: 300px;
+            }
+            .p {
+              font-family:Georgia, 'Times New Roman', Times, serif;
+              font-style: oblique;
+              text-align: center;
+              margin: auto;
+              z-index: 99;
+              position: absolute;
+              right: 150px;
+              top: 320px;
+            }
+            .q  {
+              font-family:Georgia, 'Times New Roman', Times, serif;
+              font-style: oblique;
+              text-align: center;
+              margin: auto;
+              z-index: 99;
+              position: absolute;
+              right: 130px;
+              top: 370px;
+              height: 13%;
+            }
+            .r {
+              display: flex;
+               position: absolute;
+               z-index: 0%;
+               width: 1;
+               margin-top: 700px;
+               margin-left: 90px;
+               height: 50%;
+            }
+            .s {
+              display: flex;
+               position: absolute;
+               z-index: 0%;
+               width: 1;
+               margin-top: 700px;
+               margin-left: 550px;
+               height: 50%;
+            }
+            .t {
+              display: flex;
+               position: absolute;
+               z-index: 0%;
+               width: 1;
+               margin-top: 700px;
+               margin-left: 1000px;
+               height: 50%;
+            }
+
+            </style>
+                <img class="c" src="https://img.freepik.com/foto-gratis/antiguo-manuscrito-papel-o-papiro-desplazarse-verticalmente-orientado-aislado-sobre-fondo-blanco_152391-19.jpg?size=338&ext=jpg">
+                <img class="d" src="https://img.freepik.com/foto-gratis/antiguo-manuscrito-papel-o-papiro-desplazarse-verticalmente-orientado-aislado-sobre-fondo-blanco_152391-19.jpg?size=338&ext=jpg">      
+                <img class="e" src="https://img.freepik.com/foto-gratis/antiguo-manuscrito-papel-o-papiro-desplazarse-verticalmente-orientado-aislado-sobre-fondo-blanco_152391-19.jpg?size=338&ext=jpg">      
+                <img class="i" src="data:image/jpeg;base64,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">
+                <img class="l" src="https://static.wikia.nocookie.net/seaofthieves_es_gamepedia_es/images/f/fd/La_granuja_maldita.png/revision/latest/scale-to-width-down/250?cb=20190508142230">
+                <img class="q" src="https://generacionxbox.com/wp-content/uploads/2019/06/sea-of-thieves-cuentacuentos-legendario-portada-generacion-xbox-1-940x529.jpg.webp">
+                <img class="r" src="https://img.freepik.com/foto-gratis/antiguo-manuscrito-papel-o-papiro-desplazarse-verticalmente-orientado-aislado-sobre-fondo-blanco_152391-19.jpg?size=338&ext=jpg">
+                <img class="s" src="https://img.freepik.com/foto-gratis/antiguo-manuscrito-papel-o-papiro-desplazarse-verticalmente-orientado-aislado-sobre-fondo-blanco_152391-19.jpg?size=338&ext=jpg">
+                <img class="t" src="https://img.freepik.com/foto-gratis/antiguo-manuscrito-papel-o-papiro-desplazarse-verticalmente-orientado-aislado-sobre-fondo-blanco_152391-19.jpg?size=338&ext=jpg">
+        </main>
+    </body>     
+</html>
